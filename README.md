@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Digo Bonze 😉
 
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img width="42%" height="100%" src="https://github-readme-stats.vercel.app/api?username=diegobonze&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobonze&layout=compact&langs_count=7&theme=radical"/>
+<div aling="center">
+  <a href="https://github.com/digobonze">
+  <img width="42%"  src="https://github-readme-stats.vercel.app/api?username=diegobonze&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobonze&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ## Linguagens e tecnologias que estudo diariamente
