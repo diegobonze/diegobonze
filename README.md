@@ -1,4 +1,4 @@
-### Olá! Eu sou o Digo Bonze 😉
+### Olá! Eu sou o Digo 😉
 
 
 <div aling="center">
