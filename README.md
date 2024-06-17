@@ -1,3 +1,5 @@
+ # Olá, me chamo Diego Bonze, sou desenvolvedor front end
+
  - 🎫 Hoje trabalho com Front-end e Back-end
  - 🌱 Estudando: TypeScript / React / C# / Node
 
@@ -7,7 +9,7 @@
   <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobonze&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-## Estou tabalhando/estudando com:
+## Linguagens e Tecnologias que estou tabalhando/estudando:
 
 <div style="display: inline_block" ><br>
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
