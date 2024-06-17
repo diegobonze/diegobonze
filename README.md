@@ -1,4 +1,4 @@
- - 🎫 Hoje trabalho com Front-end/Back-end
+ - 🎫 Hoje trabalho com Front-end e Back-end
  - 🌱 Estudando: TypeScript / React / C# / Node
 
 <div aling="center">
