@@ -9,7 +9,6 @@
   <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
-    <li>🔭 I’m cwurrently working as a Software Engineer at <a target="_blank" href="https://slido.com/">Slido</a>.</li>
     <li>🧐 Studying at Universidade de Vila Velha and JStack (a web fullstack development learning platform).</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/diego-bonze-518225208/">LinkedIn</a>.</li>
     <li>💬 Ping me about <strong>Cloud, Frontend and Backend stuff</strong>.</li>
